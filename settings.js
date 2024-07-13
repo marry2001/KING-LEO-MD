@@ -18,7 +18,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = 'KING-LEO-MD' //ur bot name
 global.ownernumber = '254103616551' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.ownername = 'KING-LEO' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
 global.wagc = "https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL"
 global.themeemoji = '👻'
