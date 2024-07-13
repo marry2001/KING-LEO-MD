@@ -4,7 +4,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +254103616551
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -16,19 +16,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V13' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
+global.botname = 'KING-LEO-MD' //ur bot name
+global.ownernumber = '254103616551' //ur owner number
 global.ownername = '🦄드림 가이 Xeon' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
+global.wagc = "https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL"
+global.themeemoji = '👻'
+global.wm = "LEO Bot Inc."
+global.botscript = 'https://github.com/marry2001/J-bot' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "LEO MD\n\n+254103616551"
+global.creator = "254103616551@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["254103616551"] // Premium User
 global.hituet = 0
 
 //bot sett
