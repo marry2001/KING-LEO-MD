@@ -4,7 +4,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +255786535571
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const {
